@@ -1,0 +1,1 @@
+- GNN Papers https://github.com/thunlp/GNNPapers

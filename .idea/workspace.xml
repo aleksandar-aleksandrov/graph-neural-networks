@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b560fdf7-29f1-4d33-b023-d25f4982c279" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/theory/videos/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/theory/videos/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repos/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,12 +12,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/theory/videos/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="119">
                 <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/repos/readme.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="43" selection-start-column="43" selection-end-column="43" />
               </first_editor>
               <second_editor />
             </state>
@@ -33,20 +45,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/theory/videos/readme.md" />
+        <option value="$PROJECT_DIR$/repos/readme.md" />
       </list>
     </option>
   </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/graph-neural-networks.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1688" />
     <option name="y" value="-8" />
     <option name="width" value="1696" />
@@ -67,30 +70,7 @@
             <path>
               <item name="graph-neural-networks" type="b2602c69:ProjectViewProjectNode" />
               <item name="graph-neural-networks" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graph-neural-networks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graph-neural-networks" type="462c0819:PsiDirectoryNode" />
-              <item name="theory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graph-neural-networks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graph-neural-networks" type="462c0819:PsiDirectoryNode" />
-              <item name="theory" type="462c0819:PsiDirectoryNode" />
-              <item name="books" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graph-neural-networks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graph-neural-networks" type="462c0819:PsiDirectoryNode" />
-              <item name="theory" type="462c0819:PsiDirectoryNode" />
-              <item name="papers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="graph-neural-networks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="graph-neural-networks" type="462c0819:PsiDirectoryNode" />
-              <item name="theory" type="462c0819:PsiDirectoryNode" />
-              <item name="videos" type="462c0819:PsiDirectoryNode" />
+              <item name="repos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -98,6 +78,9 @@
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -153,6 +136,16 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="119">
             <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/repos/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="43" selection-start-column="43" selection-end-column="43" />
           </first_editor>
           <second_editor />
         </state>
