@@ -5,3 +5,4 @@
 - Learning the Structure of Graph Neural Networks: https://www.youtube.com/watch?v=9XoCQn34tXo
 - Graph Convolutional Networks: https://www.youtube.com/watch?v=pH1Zz6c1Q7A
 - DeepWalk: https://www.youtube.com/watch?v=aZNtHJwfIVg
+- Representational Power of Graph Neural Networks
